@@ -35,4 +35,4 @@ All the hands-on exercises of the chapters can be found [here](https://github.co
 
 ### Hands-on of lectures
 
-All the hands-on exercises of the lectures can be found here.
+All the hands-on exercises of the lectures can be found [here](https://github.com/alert-geomaterials/2023-doctoral-school/tree/main/lectures/hands-on).
