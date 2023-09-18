@@ -3,4 +3,7 @@ Chapters and codes used in the 2023 Alert Geomaterials doctoral school on "Machi
 
 The presentations will be uploaded soon after the school.
 
+## Chapters
+
+## Jupyter notebooks
 
