@@ -5,9 +5,11 @@ The presentations will be uploaded soon after the school.
 
 ## Volume
 
+[Foreword](/chapters/C00 - Foreword.pdf)
+
 The volume is organized in ten chapters:
 
-The first chapter, “Overview of Machine Learning”, is the introductory chapter of this volume. In this chapter we explain how the machine can learn, we show a classification of the main methods in Machine Learning, we outline some applications of
+The first chapter, [“Overview of Machine Learning”](/chapters/C01 - IS_Introduction.pdf), is the introductory chapter of this volume. In this chapter we explain how the machine can learn, we show a classification of the main methods in Machine Learning, we outline some applications of
 ML in Geomechanics and we highlight its limitations.
 
 The second chapter, “Introduction to regression methods”, focuses on regression, which is one of the fundamental pillars of supervised Machine Learning. In this chapter we introduce the essential concepts in regression analysis and methods, by
