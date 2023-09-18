@@ -29,6 +29,10 @@ The last chapter, [“Introduction to Reinforcement Learning with Applications i
 
 ## Jupyter notebooks
 
-### Codes of chapters
+### Hands-on of chapters
 
-### Hands-on
+All the hands-on exercises of the chapters can be found [here](https://github.com/alert-geomaterials/2023-doctoral-school/tree/main/chapters/hands-on).
+
+### Hands-on of lectures
+
+All the hands-on exercises of the lectures can be found here.
