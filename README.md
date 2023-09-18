@@ -1,5 +1,5 @@
 # 2023-doctoral-school
-The volume's chapters and codes used during the the 2023 Alert Geomaterials doctoral school on "Machine Learning in Geomechanics".
+This repository includes the codes and chapters that were written for the 2023 Alert Geomaterials doctoral school on "Machine Learning in Geomechanics".
 
 The presentations will be uploaded soon after the school.
 
