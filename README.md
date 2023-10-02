@@ -1,7 +1,7 @@
 # 2023-doctoral-school
 This repository includes the codes and Jupyter notebooks that were written for the 2023 Alert Geomaterials doctoral school on "Machine Learning in Geomechanics".
 
-The presentations will be uploaded soon after the school.
+See [program](https://github.com/alert-geomaterials/2023-doctoral-school/blob/main/ALERT%20School%202023-Program_Final.pdf).
 
 ## Volume
 
